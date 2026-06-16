@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Project_Working
+touch how_project_works.txt
+
+# Virtual Environments
+./mrs
+
 # C extensions
 *.so
 
